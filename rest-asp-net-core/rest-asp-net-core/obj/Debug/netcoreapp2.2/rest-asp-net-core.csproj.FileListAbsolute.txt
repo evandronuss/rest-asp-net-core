@@ -1,0 +1,14 @@
+C:\repositories\rest-asp-net-core\rest-asp-net-core\rest-asp-net-core\rest-asp-net-core\bin\Debug\netcoreapp2.2\rest-asp-net-core.deps.json
+C:\repositories\rest-asp-net-core\rest-asp-net-core\rest-asp-net-core\rest-asp-net-core\bin\Debug\netcoreapp2.2\rest-asp-net-core.runtimeconfig.json
+C:\repositories\rest-asp-net-core\rest-asp-net-core\rest-asp-net-core\rest-asp-net-core\bin\Debug\netcoreapp2.2\rest-asp-net-core.runtimeconfig.dev.json
+C:\repositories\rest-asp-net-core\rest-asp-net-core\rest-asp-net-core\rest-asp-net-core\bin\Debug\netcoreapp2.2\rest-asp-net-core.dll
+C:\repositories\rest-asp-net-core\rest-asp-net-core\rest-asp-net-core\rest-asp-net-core\bin\Debug\netcoreapp2.2\rest-asp-net-core.pdb
+C:\repositories\rest-asp-net-core\rest-asp-net-core\rest-asp-net-core\rest-asp-net-core\obj\Debug\netcoreapp2.2\rest-asp-net-core.csprojAssemblyReference.cache
+C:\repositories\rest-asp-net-core\rest-asp-net-core\rest-asp-net-core\rest-asp-net-core\obj\Debug\netcoreapp2.2\rest-asp-net-core.csproj.CoreCompileInputs.cache
+C:\repositories\rest-asp-net-core\rest-asp-net-core\rest-asp-net-core\rest-asp-net-core\obj\Debug\netcoreapp2.2\rest-asp-net-core.RazorAssemblyInfo.cache
+C:\repositories\rest-asp-net-core\rest-asp-net-core\rest-asp-net-core\rest-asp-net-core\obj\Debug\netcoreapp2.2\rest-asp-net-core.RazorAssemblyInfo.cs
+C:\repositories\rest-asp-net-core\rest-asp-net-core\rest-asp-net-core\rest-asp-net-core\obj\Debug\netcoreapp2.2\rest-asp-net-core.AssemblyInfoInputs.cache
+C:\repositories\rest-asp-net-core\rest-asp-net-core\rest-asp-net-core\rest-asp-net-core\obj\Debug\netcoreapp2.2\rest-asp-net-core.AssemblyInfo.cs
+C:\repositories\rest-asp-net-core\rest-asp-net-core\rest-asp-net-core\rest-asp-net-core\obj\Debug\netcoreapp2.2\rest-asp-net-core.RazorTargetAssemblyInfo.cache
+C:\repositories\rest-asp-net-core\rest-asp-net-core\rest-asp-net-core\rest-asp-net-core\obj\Debug\netcoreapp2.2\rest-asp-net-core.dll
+C:\repositories\rest-asp-net-core\rest-asp-net-core\rest-asp-net-core\rest-asp-net-core\obj\Debug\netcoreapp2.2\rest-asp-net-core.pdb

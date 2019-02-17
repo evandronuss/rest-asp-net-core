@@ -10,6 +10,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using rest_asp_net_core.Services;
+using rest_asp_net_core.Services.Implementattions;
 
 namespace rest_asp_net_core
 {
@@ -26,6 +28,8 @@ namespace rest_asp_net_core
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+
+            services.AddScoped<IPersonService, PersonServiceImpl>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

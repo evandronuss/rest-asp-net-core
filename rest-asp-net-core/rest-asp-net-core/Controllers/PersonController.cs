@@ -4,7 +4,8 @@ using rest_asp_net_core.Services;
 
 namespace rest_asp_net_core.Controllers
 {
-    [Route("api/[controller]")]
+    [ApiVersion("1.0")]
+    [Route("api/v{version:apiVersion}/[controller]")]
     [ApiController]
     public class PersonController : ControllerBase
     {
@@ -38,7 +39,7 @@ namespace rest_asp_net_core.Controllers
             if (person == null)
                 return BadRequest();
 
-            return new ObjectResult(person);
+            return new ObjectResult(_personService.Create(person));
         }
 
         [HttpPut("{id}")]
@@ -47,7 +48,7 @@ namespace rest_asp_net_core.Controllers
             if (person == null)
                 return BadRequest();
 
-            return new ObjectResult(person);
+            return new ObjectResult(_personService.Update(person));
         }
 
         [HttpDelete("{id}")]

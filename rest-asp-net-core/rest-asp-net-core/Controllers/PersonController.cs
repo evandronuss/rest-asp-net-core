@@ -48,7 +48,12 @@ namespace rest_asp_net_core.Controllers
             if (person == null)
                 return BadRequest();
 
-            return new ObjectResult(_personService.Update(person));
+            var updatedPerson = _personService.Update(person);
+
+            if (updatedPerson == null)
+                return NotFound();
+
+            return new ObjectResult(updatedPerson);
         }
 
         [HttpDelete("{id}")]
